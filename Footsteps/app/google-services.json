@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "36156192800",
+    "firebase_url": "https://footsteps-1bc16.firebaseio.com",
+    "project_id": "footsteps-1bc16",
+    "storage_bucket": "footsteps-1bc16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36156192800:android:e07e098ea27b09dc",
+        "android_client_info": {
+          "package_name": "youjaeyoung.org.footsteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36156192800-11b61fk7s5qkuide2pcq06b89jcgbil8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "youjaeyoung.org.footsteps",
+            "certificate_hash": "7759c2d99d063e40e6428fc6220431527295ca8a"
+          }
+        },
+        {
+          "client_id": "36156192800-4l0ceq3rhkq6068bco5is1rl7dpepfq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBXAEXfiErXGiv2aefhKxQaOHbWG7PelA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36156192800-4l0ceq3rhkq6068bco5is1rl7dpepfq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
