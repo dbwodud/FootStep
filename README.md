@@ -2,9 +2,10 @@
 음성 메모 앱
 
 ## API
-Google Firebase
-Naver Clova
-
+### Google Firebase
+![1 ipwpqqrhz0lkd_5setxqcq](https://user-images.githubusercontent.com/19318851/48632148-83182800-ea03-11e8-8913-cd64aa7ba43f.png)
+### Naver Clova
+![clova_thumbnail_1200x630](https://user-images.githubusercontent.com/19318851/48632142-80b5ce00-ea03-11e8-914c-1bfb96ecb438.png)
 ## DB
 NoSQL
 
