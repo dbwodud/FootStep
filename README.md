@@ -1,12 +1,12 @@
-# FootS##tep
+# FootStep
 음성 메모 앱
 
-### API
+## API
 Google Firebase
 Naver Clova
 
-### DB
+## DB
 NoSQL
 
-### 사용 언어 
+## LANGUAGE 
 JAVA
