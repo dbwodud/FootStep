@@ -1,6 +1,12 @@
-# FootStep
+# FootS##tep
 음성 메모 앱
 
-서버 : Google Firebase
+### API
+Google Firebase
+Naver Clova
 
-사용 언어 : JAVA
+### DB
+NoSQL
+
+### 사용 언어 
+JAVA
